@@ -8,10 +8,10 @@ created for Educhain Hackathon.
 Deployed in Educhain Sepolia
 
 Deployer: 0x9EF7a9d46C4F3EC4378D3dD495E827F0D1cb475E
-Deployed to: 0xa49967A85c77C406b68b7A0F1B27D330131B011B
-Transaction hash: 0xd6e520386f6fd0a641c5414e0db4c5bb3bc8378995708edd4fa55f85509fc3b8
+Deployed to: 0x95740ea41b012F2F5194D7978DDB6CC6bab777E6
+Transaction hash: 0x889ead94608b36af615745bfcbd1fcd9d0830023cf8040188e01950550c66d9a
 
-https://edu-chain-testnet.blockscout.com/address/0xa49967A85c77C406b68b7A0F1B27D330131B011B?tab=index
+https://edu-chain-testnet.blockscout.com/address/0x95740ea41b012F2F5194D7978DDB6CC6bab777E6
 
 ```
 

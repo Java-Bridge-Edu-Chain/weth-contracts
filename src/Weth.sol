@@ -6,7 +6,7 @@ import {ERC20Burnable} from "@openzeppelin/contracts/token/ERC20/extensions/ERC2
 import {Ownable} from "@openzeppelin/contracts/access/Ownable.sol";
 
 contract WrappedETH is ERC20, ERC20Burnable, Ownable {
-    event Burn(
+    event Deposit(
         uint256 indexed id,
         address sender,
         address recipient,
@@ -30,7 +30,7 @@ contract WrappedETH is ERC20, ERC20Burnable, Ownable {
     ) public {
         _burn(_msgSender(), amount);
 
-        emit Burn(
+        emit Deposit(
             id,
             _msgSender(),
             recipient,
